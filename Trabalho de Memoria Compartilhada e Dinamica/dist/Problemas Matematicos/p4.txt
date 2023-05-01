@@ -1,0 +1,1 @@
+math.factorial(100000)
